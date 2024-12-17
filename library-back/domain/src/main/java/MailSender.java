@@ -1,5 +1,3 @@
-package com.loft.library;
-
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
