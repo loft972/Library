@@ -21,13 +21,13 @@
 	<developers>
 		<developer/>
 	</developers>
-    <modules>
-        <module>application</module>
+	<modules>
+		<module>application</module>
 		<module>domain</module>
 		<module>exposition</module>
 		<module>infrastructure</module>
 	</modules>
-    <scm>
+	<scm>
 		<connection/>
 		<developerConnection/>
 		<tag/>
