@@ -1,8 +1,7 @@
-package com.loft.libraryback.entity;
+package com.loft.domain.libraryback.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.Embedded;
 import jakarta.persistence.ManyToOne;
 
 import java.time.LocalDateTime;
